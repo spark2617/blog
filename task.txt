@@ -1,0 +1,4 @@
+- primeiro topico aparecer, por default *
+- deixar o efeito mais lento *
+- reduzir tamanho da imagem *
+- arrumar mensagem da tela *
